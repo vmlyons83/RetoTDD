@@ -1,0 +1,10 @@
+com/example/repository/TaskRepository.java
+ com.example.repository.TaskRepository
+com/example/service/TaskService.java
+ com.example.service.TaskService
+com/example/controller/TaskController.java
+ com.example.controller.TaskController
+com/example/model/Task.java
+ com.example.model.Task
+com/example/TaskApplication.java
+ com.example.TaskApplication
